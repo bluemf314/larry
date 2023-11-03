@@ -6,3 +6,5 @@ These modules are required to be installed. If you don't have any of the modules
 - runpy
 - 
 most of these are built in modules
+
+the project is unfinished
